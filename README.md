@@ -1,6 +1,7 @@
 <h1>About me</h1>
 <p>👋 Hi, I am Filip Krawczak</p>
-<p>🌱 I’m currently studying in the third year of Computer Science at the Gdańsk University of Technology.</p>
+<p>🎓 I’m currently studying in the third year of Computer Science at the Gdańsk University of Technology.</p>
+<p></p>
   </p>          
   <h1>Socials </h1>     
   <p align="left">
