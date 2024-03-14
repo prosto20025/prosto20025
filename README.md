@@ -1,4 +1,4 @@
-<h1>About me</h1>
+# 💫 About Me:
 <p>👋 Hi, I am Filip Krawczak</p>
 <p>🎓 I’m currently studying in the third year of Computer Science at the Gdańsk University of Technology.</p>
 <p></p>
