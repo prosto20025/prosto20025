@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=2000&width=325&lines=Hi+👋,+I'm+Filip+Krawczak" alt="Hi 👋, I'm Filip Krawczak">
+</div>
+
+
 # 💫 About Me:
 <p>👋 Hi, I am Filip Krawczak</p>
 <p>🎓 I’m currently studying in the third year of Computer Science at the Gdańsk University of Technology.</p>
