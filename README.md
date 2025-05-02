@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=2000&width=325&lines=Hi+👋,+I'm+Filip+Krawczak" alt="Hi 👋, I'm Filip Krawczak">
+    <p>Hi 👋, I'm Filip Krawczak</p>
 </div>
         
 ## 🌐 Socials:   
